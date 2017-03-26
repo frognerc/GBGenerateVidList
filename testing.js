@@ -1,6 +1,6 @@
 
 var API_PATH = "http://www.giantbomb.com/api/videos/";
-var API_KEY  = "1ad88f4d213c490d695231da3ce9e9636eebf8ad";
+var API_KEY  = "";
 
 var videos = [];
 var time_limits = [];
